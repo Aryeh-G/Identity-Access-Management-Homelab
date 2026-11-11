@@ -111,7 +111,7 @@ Both events were visible in the audit log on **November 11, 2026**. These entrie
 
 ## Outcome
 
-**Lab 1 completed:** One Finance employee was provisioned, one security group was created, the employee was added as a direct member, and the relevant group audit events were verified.
+One Finance employee was provisioned, one security group was created, the employee was added as a direct member, and the relevant group audit events were verified.
 
 This lab focuses on **foundational identity administration**, not full RBAC enforcement, SSO, Conditional Access, or end-to-end Joiner–Mover–Leaver automation.
 
